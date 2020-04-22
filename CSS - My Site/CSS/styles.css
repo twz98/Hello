@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  background-color: #f4f4f4;
+
+}
+
+#Heading {
+  margin: 0;
+}
+
+.sub-intro {
+  color: #d8345f;
+  font-size: 26px;
+}
+
+.top-container {
+  background-color: #fde2e2;
+  height: 200px;
+  padding: 20px;
+  text-align: center;
+}
+
+.middle-container1 {
+  background-color: #f4f4f4;
+  padding: 20px;
+  height: 200px;
+  text-align: center;
+  /*border: solid 20px;
+  background-color: red;*/
+}
+.middle-container2 {
+  background-color: #f4f4f4;
+  padding: 20px;
+  height: 400px;
+  text-align: center;
+
+}
+.middle-container3 {
+  background-color: #f4f4f4;
+  padding: 20px;
+  height: 200px;
+  text-align: center;
+  /*border: solid 20px;
+  background-color: red;*/
+}
+
+.bottom-container {
+  background-color: #aacfcf;
+  padding: 10px 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  color: #40a798;
+  font-size: 45px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 54px;
+}
+
+h2 {
+  font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+  font-size: 32px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 600;
+  line-height: 28px;
+  color: #679b9b;
+  margin: 0;
+    }
+
+h3 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 22px;
+  font-style: normal;
+  font-variant: normal;
+  font-stretch: ultra-condensed;
+  font-weight: 500;
+  line-height: 22px;
+  color: #679b9b;
+  margin: 0;
+    }
+h4 {
+  font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+  font-size: 16px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 600;
+  line-height: 22px;
+  color: #679b9b;
+  margin: 0;
+  }
+
+p {
+  font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+  font-size: 22px;
+  color: #d8345f;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.Bike {
+  position: absolute;
+  left: 55%;
+  top: 65px;
+  width: 400px;
+}
+
+.crying {
+  position: relative;
+  right: 450px;
+  bottom: 200px;
+  width: 250px;
+}
+
+.typing {
+  position: relative;
+  width: 300px;
+  margin: 0;
+}
+.dance {
+  position: relative;
+  bottom: 150px;
+  left: 400px;
+  margin: 0;
+}
+
+blockquote { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+  font-size: 21px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+pre { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+  font-size: 13px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 18.5714px;
+}
+
+hr {
+  background-color: #f4f4f4;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #aacfcf;
+  border-width: 8px;
+  width: 10%;
+}
